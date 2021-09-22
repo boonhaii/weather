@@ -19,4 +19,9 @@ The web application can also be ran locally on your device. To do so, clone the 
 the web application is the same as if accessed via GitHub pages.
 
 ## Closing Remarks
+The following are the current ideas on future features for implementation:
+1. Increase responsive design for various medium used to view the web page.
+2. Implement section to indicate the legends of the forecast logos.
+3. Display the local current time.
+
 Thank you for checking out my project!
