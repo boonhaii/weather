@@ -137,7 +137,7 @@ body {
 #credits {
     height: 5%;
     width: 100%;
-    position: absolute;
+    position: fixed;
     text-align: center;
     font-size: small;
     bottom: 0px;
